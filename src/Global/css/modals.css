@@ -1,0 +1,21 @@
+.header-modal {
+  display: flex;
+  flex-direction: column;
+  justify-content: left;
+  align-items: left;
+  /* margin-top: 20px; */
+}
+
+.titulo-modal {
+  text-align: left;
+  /* margin-bottom: 20px; */
+}
+
+.descricao-modal {
+  width: 100%;
+}
+
+.table-btns {
+  display: flex;
+  justify-content: flex-end;
+}
